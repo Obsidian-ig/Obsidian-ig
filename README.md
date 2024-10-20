@@ -6,5 +6,4 @@ I recently remade my old website You should check it out! [Obsidians Unblocked R
 
 # Obsidians Unblocked
 # ![Obsidians Unblocked Logo](https://obsidianig.com/assets/obsidians-unblocked-high-resolution-logo-transparent.png)  
-**ObsidiansUnblockedRevamped**  
 ---
