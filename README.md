@@ -1,6 +1,7 @@
 
 # About Me
 A dumb little single developer who makes websites, web apps, games, little scripts, mods, etc..  
+I very easily get bored of working on a project.  
 I love C# and very much dislike C/C++. And don't even get me started with Python.  
 
 I Hate Vibe Coders with a passion.  
