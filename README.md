@@ -1,6 +1,6 @@
 
 # About Me
-A dumb little single developer who makes websites, web apps, games, little scripts, mods, etc..
+A dumb little single developer who makes websites, web apps, games, little scripts, mods, etc..  
 I love C# and very much dislike C/C++. And don't even get me started with Python.
 
 # Project DNA
